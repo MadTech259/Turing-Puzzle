@@ -59,10 +59,28 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\IMachineInstructionController.cs" />
+    <Compile Include="Assets\Scripts\IMachineInstructionModel.cs" />
+    <Compile Include="Assets\Scripts\IReadingHeadModel.cs" />
+    <Compile Include="Assets\Scripts\IStateTableController.cs" />
+    <Compile Include="Assets\Scripts\IStateTableModel.cs" />
+    <Compile Include="Assets\Scripts\ISymbolsStripController.cs" />
+    <Compile Include="Assets\Scripts\ISymbolsStripModel.cs" />
+    <Compile Include="Assets\Scripts\MachineInstruction.cs" />
+    <Compile Include="Assets\Scripts\MachineInstructionController.cs" />
+    <Compile Include="Assets\Scripts\MachineInstructionModel.cs" />
     <Compile Include="Assets\Scripts\ReadingHeadBehaviour.cs" />
+    <Compile Include="Assets\Scripts\ReadingHeadController.cs" />
+    <Compile Include="Assets\Scripts\ReadingHeadModel.cs" />
+    <Compile Include="Assets\Scripts\StateTable.cs" />
+    <Compile Include="Assets\Scripts\StateTableController.cs" />
+    <Compile Include="Assets\Scripts\StateTableModel.cs" />
     <Compile Include="Assets\Scripts\Symbol.cs" />
     <Compile Include="Assets\Scripts\Symbols Array.cs" />
+    <Compile Include="Assets\Scripts\SymbolsStripController.cs" />
+    <Compile Include="Assets\Scripts\SymbolsStripModel.cs" />
     <Compile Include="Assets\Scripts\SymbolStripBehaviour.cs" />
+    <Compile Include="Assets\Scripts\SymbolStripModel.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/Manu/Documents/GitHub/TuringCompletePuzzle/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

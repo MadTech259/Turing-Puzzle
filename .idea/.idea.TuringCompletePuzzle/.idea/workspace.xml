@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bb48895-c107-4254-a347-fc9eb3a97c97" name="Default Changelist" comment="" />
+    <list default="true" id="9bb48895-c107-4254-a347-fc9eb3a97c97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.TuringCompletePuzzle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IMachineInstructionController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IMachineInstructionController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IMachineInstructionModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IMachineInstructionModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IReadingHeadModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IReadingHeadModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IStateTableController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IStateTableController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IStateTableModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IStateTableModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ISymbolsStripController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ISymbolsStripController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ISymbolsStripModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ISymbolsStripModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MachineInstructionController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MachineInstructionController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MachineInstructionModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MachineInstructionModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ReadingHeadController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ReadingHeadController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ReadingHeadModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ReadingHeadModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StateTableController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StateTableController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StateTableModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StateTableModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SymbolStripModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SymbolStripModel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SymbolsStripController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TuringCompletePuzzle/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TuringCompletePuzzle/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TuringCompletePuzzle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TuringCompletePuzzle/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ReadingHeadBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ReadingHeadBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SymbolStripBehaviour.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SymbolStripBehaviour.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Symbols Array.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SymbolsStripController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Symbols Array.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/97/97732996f37abc0478f11830c53f5783" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/97/97732996f37abc0478f11830c53f5783" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/97/97732996f37abc0478f11830c53f5783.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/97/97732996f37abc0478f11830c53f5783.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a0/a0d726d3c6c298d468cb8c5f67822f8a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a0/a0d726d3c6c298d468cb8c5f67822f8a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/a0/a0d726d3c6c298d468cb8c5f67822f8a.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a0/a0d726d3c6c298d468cb8c5f67822f8a.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c1/c1bcf010170afc949a3dc6ac86e838cd" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c1/c1bcf010170afc949a3dc6ac86e838cd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/c1/c1bcf010170afc949a3dc6ac86e838cd.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c1/c1bcf010170afc949a3dc6ac86e838cd.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,61 +59,119 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SymbolStripBehaviour.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/StateTableController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+              <folding>
+                <marker date="1581916614463" expanded="true" signature="92:512" ph="{...}" />
+                <marker date="1581916614463" expanded="true" signature="287:510" ph="{...}" />
+                <marker date="1581916614463" expanded="true" signature="426:504" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MachineInstructionModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1581915951937" expanded="true" signature="63:77" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/IMachineInstructionModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+              <folding>
+                <marker date="1581915695475" expanded="true" signature="41:50" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/IStateTableModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <marker date="1581915549062" expanded="true" signature="68:148" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/StateTableModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1581915695534" expanded="true" signature="82:312" ph="{...}" />
+                <marker date="1581915695534" expanded="true" signature="230:310" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SymbolsStripController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
               <folding>
-                <marker date="1581545628645" expanded="false" signature="6:78" ph="..." />
-                <marker date="1581545628645" expanded="true" signature="129:303" ph="{...}" />
-                <marker date="1581545628645" expanded="true" signature="201:222" ph="{...}" />
-                <marker date="1581545628645" expanded="true" signature="280:301" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Symbols Array.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-              <folding>
-                <marker date="1581546789747" expanded="false" signature="6:78" ph="..." />
-                <marker date="1581546789747" expanded="true" signature="121:337" ph="{...}" />
-                <marker date="1581546789747" expanded="true" signature="212:251" ph="{...}" />
-                <marker date="1581546789747" expanded="true" signature="299:335" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Symbol.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <folding>
-                <marker date="1581546299970" expanded="true" signature="28:32" ph="{...}" />
+                <marker date="1581914080172" expanded="false" signature="6:78" ph="..." />
+                <marker date="1581914080172" expanded="true" signature="156:390" ph="{...}" />
+                <marker date="1581914080172" expanded="true" signature="251:297" ph="{...}" />
+                <marker date="1581914080172" expanded="true" signature="345:388" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ReadingHeadBehaviour.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MachineInstructionController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            <state relative-caret-position="175">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding>
-                <marker date="1581638984618" expanded="false" signature="6:78" ph="..." />
-                <marker date="1581638984618" expanded="true" signature="129:407" ph="{...}" />
-                <marker date="1581638984618" expanded="true" signature="210:245" ph="{...}" />
-                <marker date="1581638984618" expanded="true" signature="302:405" ph="{...}" />
-                <marker date="1581638984618" expanded="true" signature="448:745" ph="{...}" />
-                <marker date="1581638984618" expanded="true" signature="566:743" ph="{...}" />
-                <marker date="1581638984618" expanded="true" signature="682:737" ph="{...}" />
-                <marker date="1581638984618" expanded="true" signature="778:846" ph="{...}" />
-                <marker date="1581638984618" expanded="true" signature="823:844" ph="{...}" />
+                <marker date="1581916614429" expanded="true" signature="74:162" ph="{...}" />
+                <marker date="1581916614429" expanded="true" signature="139:160" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/IMachineInstructionController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding>
+                <marker date="1581916590542" expanded="true" signature="46:107" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/IStateTableController.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ISymbolsStripModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <marker date="1581913731396" expanded="true" signature="40:91" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -73,18 +179,43 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Symbol.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Symbols Array.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SymbolStripBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ReadingHeadBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MachineInstructionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateTableController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StateTableModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IStateTableController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IStateTableModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MachineInstructionModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IMachineInstructionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ISymbolsStripModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IMachineInstructionModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SymbolsStripController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SymbolStripModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ReadingHeadController.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ReadingHeadBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SymbolsStripModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ISymbolsStripModel.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SymbolStripBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Symbols Array.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ReadingHeadBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SymbolStripModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SymbolsStripController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MachineInstruction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ReadingHeadController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateTableModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IMachineInstructionModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IStateTableController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IStateTableModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StateTableController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IMachineInstructionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MachineInstructionController.cs" />
       </list>
     </option>
   </component>
@@ -104,6 +235,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -121,11 +253,10 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -174,11 +305,12 @@
       <workItem from="1581545164885" duration="1000" />
       <workItem from="1581545529658" duration="3463000" />
       <workItem from="1581634538811" duration="1890000" />
+      <workItem from="1581913146889" duration="3442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5354000" />
+    <option name="totallyTimeSpent" value="8796000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -193,14 +325,14 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Captures" order="4" weight="0.32995737" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -220,7 +352,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="PlantUML" order="3" />
+      <window_info active="true" anchor="right" id="PlantUML" order="3" visible="true" weight="0.32995737" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
       <window_info anchor="right" id="Database" order="6" />
@@ -244,19 +376,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Symbols Array.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <marker date="1581546789747" expanded="false" signature="6:78" ph="..." />
-            <marker date="1581546789747" expanded="true" signature="121:337" ph="{...}" />
-            <marker date="1581546789747" expanded="true" signature="212:251" ph="{...}" />
-            <marker date="1581546789747" expanded="true" signature="299:335" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Symbol.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-25">
@@ -266,33 +385,127 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SymbolStripBehaviour.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SymbolStripModel.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="325">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <marker date="1581545628645" expanded="false" signature="6:78" ph="..." />
-            <marker date="1581545628645" expanded="true" signature="129:303" ph="{...}" />
-            <marker date="1581545628645" expanded="true" signature="201:222" ph="{...}" />
-            <marker date="1581545628645" expanded="true" signature="280:301" ph="{...}" />
+            <marker date="1581914130385" expanded="false" signature="6:78" ph="..." />
+            <marker date="1581914130385" expanded="true" signature="145:284" ph="{...}" />
+            <marker date="1581914130385" expanded="true" signature="207:277" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ReadingHeadBehaviour.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ReadingHeadController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        <state relative-caret-position="450">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
           <folding>
-            <marker date="1581638984618" expanded="false" signature="6:78" ph="..." />
-            <marker date="1581638984618" expanded="true" signature="129:407" ph="{...}" />
-            <marker date="1581638984618" expanded="true" signature="210:245" ph="{...}" />
-            <marker date="1581638984618" expanded="true" signature="302:405" ph="{...}" />
-            <marker date="1581638984618" expanded="true" signature="448:745" ph="{...}" />
-            <marker date="1581638984618" expanded="true" signature="566:743" ph="{...}" />
-            <marker date="1581638984618" expanded="true" signature="682:737" ph="{...}" />
-            <marker date="1581638984618" expanded="true" signature="778:846" ph="{...}" />
-            <marker date="1581638984618" expanded="true" signature="823:844" ph="{...}" />
+            <marker date="1581914869434" expanded="false" signature="6:44" ph="..." />
+            <marker date="1581914869434" expanded="true" signature="96:577" ph="{...}" />
+            <marker date="1581914869434" expanded="true" signature="270:312" ph="{...}" />
+            <marker date="1581914869434" expanded="true" signature="350:392" ph="{...}" />
+            <marker date="1581914869434" expanded="true" signature="443:575" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ISymbolsStripModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <marker date="1581913731396" expanded="true" signature="40:91" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/IMachineInstructionModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+          <folding>
+            <marker date="1581915695475" expanded="true" signature="41:50" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MachineInstructionModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1581915951937" expanded="true" signature="63:77" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/IStateTableController.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/IStateTableModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1581915549062" expanded="true" signature="68:148" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StateTableModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1581915695534" expanded="true" signature="82:312" ph="{...}" />
+            <marker date="1581915695534" expanded="true" signature="230:310" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SymbolsStripController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <marker date="1581914080172" expanded="false" signature="6:78" ph="..." />
+            <marker date="1581914080172" expanded="true" signature="156:390" ph="{...}" />
+            <marker date="1581914080172" expanded="true" signature="251:297" ph="{...}" />
+            <marker date="1581914080172" expanded="true" signature="345:388" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StateTableController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+          <folding>
+            <marker date="1581916614463" expanded="true" signature="92:512" ph="{...}" />
+            <marker date="1581916614463" expanded="true" signature="287:510" ph="{...}" />
+            <marker date="1581916614463" expanded="true" signature="426:504" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/IMachineInstructionController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <marker date="1581916590542" expanded="true" signature="46:107" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MachineInstructionController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1581916614429" expanded="true" signature="74:162" ph="{...}" />
+            <marker date="1581916614429" expanded="true" signature="139:160" ph="{...}" />
           </folding>
         </state>
       </provider>

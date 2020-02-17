@@ -2,18 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class SymbolsArray : MonoBehaviour
+public class SymbolsStripController : MonoBehaviour, ISymbolsStripController
 {
-    public Symbol[] Symbols { get; private set; }
+    [SerializeField] private SymbolStripModel _model;
 
 
     public Symbol GetSymbolAt(int i)
     {
-        return Symbols[i];
+        return _model.Symbols[i];
     }
 
     public void WriteSymbolAt(int i, Symbol s)
     {
-        Symbols[i] = s;
+        _model.Symbols[i] = s;
     }
 }

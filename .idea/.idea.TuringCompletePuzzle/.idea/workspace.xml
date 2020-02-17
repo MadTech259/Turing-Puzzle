@@ -1,55 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bb48895-c107-4254-a347-fc9eb3a97c97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.TuringCompletePuzzle/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IMachineInstructionController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IMachineInstructionController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IMachineInstructionModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IMachineInstructionModel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IReadingHeadModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IReadingHeadModel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IStateTableController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IStateTableController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IStateTableModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/IStateTableModel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ISymbolsStripController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ISymbolsStripController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ISymbolsStripModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ISymbolsStripModel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MachineInstructionController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MachineInstructionController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MachineInstructionModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MachineInstructionModel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ReadingHeadController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ReadingHeadController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ReadingHeadModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ReadingHeadModel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StateTableController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StateTableController.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StateTableModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/StateTableModel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SymbolStripModel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SymbolStripModel.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/SymbolsStripController.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TuringCompletePuzzle/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TuringCompletePuzzle/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TuringCompletePuzzle/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TuringCompletePuzzle/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ReadingHeadBehaviour.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ReadingHeadBehaviour.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SymbolStripBehaviour.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SymbolStripBehaviour.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Symbols Array.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SymbolsStripController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Symbols Array.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/97/97732996f37abc0478f11830c53f5783" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/97/97732996f37abc0478f11830c53f5783" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/97/97732996f37abc0478f11830c53f5783.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/97/97732996f37abc0478f11830c53f5783.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/a0/a0d726d3c6c298d468cb8c5f67822f8a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a0/a0d726d3c6c298d468cb8c5f67822f8a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/a0/a0d726d3c6c298d468cb8c5f67822f8a.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a0/a0d726d3c6c298d468cb8c5f67822f8a.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/c1/c1bcf010170afc949a3dc6ac86e838cd" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c1/c1bcf010170afc949a3dc6ac86e838cd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/c1/c1bcf010170afc949a3dc6ac86e838cd.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c1/c1bcf010170afc949a3dc6ac86e838cd.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-    </list>
+    <list default="true" id="9bb48895-c107-4254-a347-fc9eb3a97c97" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,12 +257,20 @@
       <workItem from="1581545164885" duration="1000" />
       <workItem from="1581545529658" duration="3463000" />
       <workItem from="1581634538811" duration="1890000" />
-      <workItem from="1581913146889" duration="3442000" />
+      <workItem from="1581913146889" duration="4119000" />
     </task>
+    <task id="LOCAL-00001" summary="MVC Implemented">
+      <created>1581916664170</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581916664170</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8796000" />
+    <option name="totallyTimeSpent" value="9473000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,6 +325,10 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MVC Implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="MVC Implemented" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
